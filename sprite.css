@@ -1,0 +1,232 @@
+/*социальные кнопки*/
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-fb {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -5px;
+}
+
+.sprite-fb-d {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -62px;
+}
+
+.sprite-fb-hvr {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -119px;
+}
+
+.sprite-tw {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -176px;
+}
+
+.sprite-tw-d {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -233px;
+}
+
+.sprite-tw-hvr {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -290px;
+}
+
+.sprite-yt {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -347px;
+}
+
+.sprite-yt-d {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -404px;
+}
+
+.sprite-yt-hvr {
+    width: 47px;
+    height: 47px;
+    background-position: -5px -461px;
+}
+
+/*преимущества*/
+
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-food {
+    width: 75px;
+    height: 76px;
+    background-position: -5px -5px;
+}
+
+.sprite-home {
+    width: 75px;
+    height: 76px;
+    background-position: -90px -5px;
+}
+
+.sprite-toy {
+    width: 75px;
+    height: 76px;
+    background-position: -5px -91px;
+}
+
+/*кнопки*/
+
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow-down {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -15px;
+}
+
+.sprite-arrow-down-down {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -55px;
+}
+
+.sprite-arrow-down-hvr {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -95px;
+}
+
+.sprite-arrow-down-up {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -135px;
+}
+
+.sprite-arrow-up {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -175px;
+}
+
+.sprite-arrow-up-hvr {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -215px;
+}
+
+.sprite-cal {
+    width: 21px;
+    height: 22px;
+    background-position: -15px -255px;
+}
+
+.sprite-cal-down {
+    width: 21px;
+    height: 22px;
+    background-position: -15px -307px;
+}
+
+.sprite-cal-hvr {
+    width: 21px;
+    height: 22px;
+    background-position: -15px -359px;
+}
+
+.sprite-cb {
+    width: 26px;
+    height: 22px;
+    background-position: -15px -411px;
+}
+
+.sprite-cb-dis {
+    width: 26px;
+    height: 22px;
+    background-position: -15px -463px;
+}
+
+.sprite-cb-hvr {
+    width: 26px;
+    height: 22px;
+    background-position: -15px -515px;
+}
+
+.sprite-cb-in {
+    width: 26px;
+    height: 22px;
+    background-position: -15px -567px;
+}
+
+.sprite-cb-in-dis {
+    width: 26px;
+    height: 22px;
+    background-position: -15px -619px;
+}
+
+.sprite-cb-in-hvr {
+    width: 26px;
+    height: 22px;
+    background-position: -15px -671px;
+}
+
+.sprite-minus {
+    width: 12px;
+    height: 3px;
+    background-position: -15px -723px;
+}
+
+.sprite-minus-down {
+    width: 12px;
+    height: 3px;
+    background-position: -15px -756px;
+}
+
+.sprite-minus-hvr {
+    width: 12px;
+    height: 3px;
+    background-position: -15px -789px;
+}
+
+.sprite-plus {
+    width: 11px;
+    height: 11px;
+    background-position: -15px -822px;
+}
+
+.sprite-plus-down {
+    width: 11px;
+    height: 11px;
+    background-position: -15px -863px;
+}
+
+.sprite-plus-hvr {
+    width: 11px;
+    height: 11px;
+    background-position: -15px -904px;
+}
+
+.sprite-slide {
+    width: 20px;
+    height: 23px;
+    background-position: -15px -945px;
+}
+
+.sprite-slide-hvr {
+    width: 20px;
+    height: 23px;
+    background-position: -15px -998px;
+}
